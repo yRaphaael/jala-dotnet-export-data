@@ -1,0 +1,169 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="using:LabWeek5.ViewModels"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="LabWeek5.Views.MainWindow"
+        x:DataType="vm:MainWindowViewModel"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="LabWeek5"
+        Background="Black">
+        
+        <Window.Styles>
+                <FluentTheme />
+                <StyleInclude Source="avares://Avalonia.Controls.DataGrid/Themes/Fluent.xaml"/> 
+        </Window.Styles>
+        
+        
+        <Grid Height="{Binding RelativeSource={RelativeSource AncestorType=Window}, Path=Height}"
+              Width= "{Binding RelativeSource={RelativeSource AncestorType=Window}, Path=Width}">
+                
+                <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                
+                <StackPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <Label Foreground="White" FontSize="40" HorizontalAlignment="Center" Margin="0,0,0,20">Registro</Label>
+                        <TextBox Width="300" Height="50" Watermark="Nome:" Margin="0,0,0,20" FontSize="15" x:Name="firstName"></TextBox>
+                        <TextBox Width="300" Height="50" Watermark="Sobrenome:" Margin="0,0,0,20" FontSize="15" x:Name="lastName"></TextBox>
+                        <TextBox Width="300" Height="50" Watermark="E-mail:" Margin="0,0,0,20" FontSize="15" x:Name="email"></TextBox>
+                        <Button 
+                                Content="Registrar"
+                                x:Name="Register" 
+                                Width="300"
+                                Height="50"
+                                HorizontalContentAlignment="Center"
+                                VerticalContentAlignment="Center"
+                                FontSize="15"
+                                Click="Submit">
+                                <Button.Styles>
+                                        <Style>
+                                                <Style.Resources>
+                                                        <SolidColorBrush x:Key="ThemeBorderMidBrush">Blue</SolidColorBrush>
+                                                        <SolidColorBrush x:Key="ThemeControlHighBrush">DarkBlue</SolidColorBrush>
+                                                        <SolidColorBrush x:Key="ButtonBorderBrush">Blue</SolidColorBrush>
+                                                        <SolidColorBrush x:Key="ButtonBackground">DarkBlue</SolidColorBrush>
+                                                        <SolidColorBrush x:Key="ButtonBackgroundPointerOver">Blue</SolidColorBrush>
+                                                        <SolidColorBrush x:Key="ButtonBackgroundPressed">MediumBlue</SolidColorBrush>
+                                                </Style.Resources>
+                                        </Style>
+                                </Button.Styles>
+                        </Button>
+                        <Label VerticalAlignment="Center"
+                               HorizontalAlignment="Center"
+                               Margin="0,20,0,0"
+                               Content=""
+                               FontSize="15"
+                               x:Name="messageLabel"
+                               IsVisible="False">
+                        </Label>
+                </StackPanel>
+                
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="300" MaxWidth="800" Grid.Column="1">
+                        <DataGrid Margin="20"
+                                  IsReadOnly="True"
+                                  ItemsSource="{Binding Users} "
+                                  CanUserReorderColumns="True"
+                                  CanUserResizeColumns="True"
+                                  CanUserSortColumns="True"
+                                  GridLinesVisibility="All"
+                                  BorderThickness="1" BorderBrush="White"
+                                  MinHeight="400"
+                                  MinWidth="600"
+                                  MaxWidth="700"
+                                  MaxHeight="500"
+                                  Sorting="DataGrid_OnSorting">
+                                <DataGrid.Columns>
+                                        <DataGridTextColumn  Header="Nome" MinWidth="200" Binding="{Binding FirstName}"/>
+                                        <DataGridTextColumn Header="Sobrenome" MinWidth="200"  Binding="{Binding LastName}" />
+                                        <DataGridTextColumn Header="E-mail" MinWidth="200" Binding="{Binding Email}" />
+                                </DataGrid.Columns>
+                                
+                        </DataGrid>
+                        <TextBox MaxWidth="600" Watermark="Filtro" Height="40" x:Name="filterEmail" KeyUp="FilterUser"/>
+                        
+                                <Grid MaxWidth="300" Margin="0, 20,0,0" Height="40">
+                                        <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        
+                                        <Label Grid.Column="0"
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"
+                                               FontSize="20"
+                                               Width="200"
+                                               Content="Total de Usuários: ">
+                                                
+                                        </Label>
+                                        <Label Grid.Column="1" 
+                                               Content="{Binding RestoreUsers.Count}" 
+                                               VerticalAlignment="Center"
+                                               HorizontalAlignment="Center"
+                                               Width="50"
+                                               FontSize="20"></Label>
+                                </Grid>
+                        
+                                <Grid MaxWidth="300" Margin="0,20,0,0" Height="50" HorizontalAlignment="Right">
+                                        <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        
+                                          <Button Grid.Column="0" 
+                                                Content="Exportar"
+                                                x:Name="Export" 
+                                                MaxWidth="300"
+                                                Height="50"
+                                                HorizontalContentAlignment="Center"
+                                                VerticalContentAlignment="Center"
+                                                FontSize="15"
+                                                Margin="0,0,20,0"
+                                                Click="ExportUsers">
+                                                <Button.Styles>
+                                                        <Style>
+                                                                <Style.Resources>
+                                                                        <SolidColorBrush x:Key="ThemeBorderMidBrush">Blue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ThemeControlHighBrush">DarkBlue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ButtonBorderBrush">Blue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ButtonBackground">DarkBlue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ButtonBackgroundPointerOver">Blue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ButtonBackgroundPressed">MediumBlue</SolidColorBrush>
+                                                                </Style.Resources>
+                                                        </Style>
+                                                </Button.Styles>
+                                        </Button>
+                                        <Button Grid.Column="1" 
+                                                Content="Importar"
+                                                x:Name="Import" 
+                                                MaxWidth="300"
+                                                Height="50"
+                                                HorizontalContentAlignment="Center"
+                                                VerticalContentAlignment="Center"
+                                                FontSize="15"
+                                                Click="ImportUsers">
+                                                <Button.Styles>
+                                                        <Style>
+                                                                <Style.Resources>
+                                                                        <SolidColorBrush x:Key="ThemeBorderMidBrush">Blue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ThemeControlHighBrush">DarkBlue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ButtonBorderBrush">Blue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ButtonBackground">DarkBlue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ButtonBackgroundPointerOver">Blue</SolidColorBrush>
+                                                                        <SolidColorBrush x:Key="ButtonBackgroundPressed">MediumBlue</SolidColorBrush>
+                                                                </Style.Resources>
+                                                        </Style>
+                                                </Button.Styles>
+                                        </Button>
+                                </Grid>
+                        
+                </StackPanel>
+                
+
+                
+        </Grid>
+
+
+</Window>

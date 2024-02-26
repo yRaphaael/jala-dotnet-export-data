@@ -1,0 +1,410 @@
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5.deps.json
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5.runtimeconfig.json
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5.pdb
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Base.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Controls.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Markup.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Metal.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Desktop.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Native.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.ReactiveUI.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Skia.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Win32.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.X11.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/DynamicData.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/HarfBuzzSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/MicroCom.Runtime.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ReactiveUI.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/SkiaSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Splat.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/System.Reactive.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.csproj.AssemblyReference.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/resources
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.GeneratedMSBuildEditorConfig.editorconfig
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.AssemblyInfoInputs.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.AssemblyInfo.cs
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.csproj.CoreCompileInputs.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/references
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/original.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/original.pdb
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/original.ref.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/refint/LabWeek5.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.pdb
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.csproj.Up2Date
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.genruntimeconfig.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/Code/LabWeek5/LabWeek5/obj/Debug/net8.0/ref/LabWeek5.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5.deps.json
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5.runtimeconfig.json
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/LabWeek5.pdb
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Base.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Controls.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.DesignerSupport.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Dialogs.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Markup.Xaml.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Markup.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Metal.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.MicroCom.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.OpenGL.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Controls.ColorPicker.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Controls.DataGrid.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Desktop.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Diagnostics.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Fonts.Inter.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.FreeDesktop.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Native.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.ReactiveUI.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Remote.Protocol.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Skia.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Themes.Fluent.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Themes.Simple.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.Win32.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Avalonia.X11.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/DynamicData.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/HarfBuzzSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/MicroCom.Runtime.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ReactiveUI.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/SkiaSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Splat.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/System.Reactive.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/Tmds.DBus.Protocol.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-arm64/native/av_libglesv2.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x64/native/av_libglesv2.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x86/native/av_libglesv2.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/osx/native/libAvaloniaNative.dylib
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-arm/native/libSkiaSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/linux-x64/native/libSkiaSharp.so
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.csproj.AssemblyReference.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/Resources.Inputs.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/resources
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.GeneratedMSBuildEditorConfig.editorconfig
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.AssemblyInfoInputs.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.AssemblyInfo.cs
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.csproj.CoreCompileInputs.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.sourcelink.json
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/references
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/original.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/original.pdb
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/Avalonia/original.ref.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/refint/LabWeek5.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.dll
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.pdb
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.csproj.Up2Date
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/LabWeek5.genruntimeconfig.cache
+/home/iure_lima/Documentos/Semestre3-Jala/Programação 3/Week 5/labweek5-programming3/LabWeek5/LabWeek5/obj/Debug/net8.0/ref/LabWeek5.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\LabWeek5.exe
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\LabWeek5.deps.json
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\LabWeek5.runtimeconfig.json
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\LabWeek5.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\LabWeek5.pdb
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Base.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Controls.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.DesignerSupport.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Dialogs.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Markup.Xaml.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Markup.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Metal.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.MicroCom.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.OpenGL.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Controls.DataGrid.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Desktop.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Diagnostics.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Fonts.Inter.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.FreeDesktop.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Native.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.ReactiveUI.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Remote.Protocol.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Skia.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Themes.Fluent.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Themes.Simple.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.Win32.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Avalonia.X11.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\DynamicData.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\HarfBuzzSharp.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\MicroCom.Runtime.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ReactiveUI.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Splat.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\Tmds.DBus.Protocol.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.csproj.AssemblyReference.cache
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\Avalonia\Resources.Inputs.cache
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\Avalonia\resources
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.AssemblyInfo.cs
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.sourcelink.json
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\Avalonia\references
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\Avalonia\original.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\Avalonia\original.pdb
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\Avalonia\original.ref.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\refint\LabWeek5.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.dll
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.pdb
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.csproj.CopyComplete
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\LabWeek5.genruntimeconfig.cache
+C:\Users\rapha\Documents\jala-code-programming\labweek5-programming3\LabWeek5\LabWeek5\obj\Debug\net8.0\ref\LabWeek5.dll
